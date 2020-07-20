@@ -2,5 +2,37 @@
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
+}
+header{
+    text-align: center;
+}
+
+section{
+    background-color: #2283c9;
+    padding: 120px 15px;
+}
+h1{
+    margin: 0;
+    color: #fff;
+    font-size: 54px;
+    text-align: center;
+}
+
+article{
+    margin: 30px 0;
+    text-align: center;
+
+}
+article h2{
+    font-size: 20px;
+    color: #686868;
+    margin-bottom: 25px;
+}
+
+.botao{
+    background-color: #127d00;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
 }
